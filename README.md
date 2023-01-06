@@ -17,6 +17,7 @@ This discord bot is a project created in order to practice my javascript skills 
 - [ ] Self-role assignment
 - [ ] Dedicated music channel assignment
 - [ ] Random or personalized welcome messages
+- [ ] Document the code
 - [ ] ...
 
 ### Would you like to use it?
