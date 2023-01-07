@@ -25,9 +25,9 @@ This discord bot is a project created in order to practice my javascript skills 
 To use this code you just need to download the repository in ZIP or clone it with: 
 
 ```
-$ git clone https://github.com/AdrianY1997/GCrew-Discord-Bot.git <folder-name[optional]\>
+$ git clone https://github.com/AdrianY1997/gcrew-discord-bot.git <folder-name[optional]\>
 
-$ cd <GCrew-Discord-Bot | folder-name\>
+$ cd <gcrew-discord-bot | folder-name\>
 
 $ npm install
 ```
